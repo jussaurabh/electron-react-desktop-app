@@ -1,6 +1,12 @@
 {
 	"name": "electron-react-desktop-app",
 	"version": "0.1.0",
+	"description": "Electron React Desktop app",
+	"author": "jussaurabh",
+	"build": {
+		"appId": "display.menu"
+	},
+	"homepage": "./",
 	"main": "public/electron.js",
 	"dependencies": {
 		"@testing-library/jest-dom": "^4.2.4",
